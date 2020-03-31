@@ -1,3 +1,11 @@
+## Purpose
+
+This basically performs the crashlytics in reactjs using Sentry .
+
+![Alt text](public/image_2020_03_31T16_47_40_686Z.png?raw=true)
+
+you can follow the documentation at https://docs.sentry.io/platforms/javascript/react/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
